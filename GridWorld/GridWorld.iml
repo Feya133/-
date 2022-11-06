@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Part3" isTestSource="false" packagePrefix="info.gridworld.actor" />
+      <sourceFolder url="file://$MODULE_DIR$/Part5" isTestSource="false" packagePrefix="info.gridworld.grid" />
+      <sourceFolder url="file://$MODULE_DIR$/mazebug" isTestSource="false" packagePrefix="info.gridworld.actor" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Part2" />
+  </component>
+</module>
